@@ -25,3 +25,6 @@ Takes a PNG image and window dimensions and outputs vectorized format:
 5) use get_opt_path on each cluster to find best-fit line
 6) simplify best-fitting lines with Ramer-Douglas-Peuker algorithm
 7) convert lines to strokes
+
+# example
+![example](https://github.com/cynthiaxhua/vectorization/demo.png "Vectorization")
