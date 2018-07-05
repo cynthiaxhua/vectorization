@@ -27,4 +27,4 @@ Takes a PNG image and window dimensions and outputs vectorized format:
 7) convert lines to strokes
 
 # example
-![example](https://github.com/cynthiaxhua/vectorization/demo.png "Vectorization")
+![example](https://github.com/cynthiaxhua/vectorization/blob/master/demo.png "Vectorization")
